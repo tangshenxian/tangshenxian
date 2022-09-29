@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![tangshenxian's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangshenxian&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
